@@ -8,7 +8,7 @@ Influences from constructivism, suprematism, biomimicry, and futurism are eviden
 
 Overall, these works represent a symbiosis of digital technology and artistic vision, offering a fresh perspective on art where technology and creativity merge seamlessly.
 
-![Preview](graphics000.jpg)
+![Preview](graphics000.png)
 
 ## Content
 
