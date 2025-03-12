@@ -1,13 +1,12 @@
 # art vecor graphics
 
-"These works, crafted using vector graphics, showcase a unique blend of geometric precision and organic fluidity. Sharp lines and intricate forms create an impression of flawless craftsmanship.
+These works, crafted using vector graphics, showcase a unique blend of geometric precision and organic fluidity. Sharp lines and intricate forms create an impression of flawless craftsmanship.
 
 The rich color palette, featuring vibrant gradients, neon hues, and striking contrasts, generates a sense of dynamism and energy. Abstract structures, combining architectural and organic motifs, reflect a synthesis of nature and technology.
 
 Influences from constructivism, suprematism, biomimicry, and futurism are evident, adding depth and complexity to the works. The emotional component, expressed through a chaos of lines and color patches, evokes a sense of inner tension and expression.
 
-Overall, these works represent a symbiosis of digital technology and artistic vision, offering a fresh perspective on art where technology and creativity merge seamlessly."
-
+Overall, these works represent a symbiosis of digital technology and artistic vision, offering a fresh perspective on art where technology and creativity merge seamlessly.
 
 ![Preview](graphics000.jpg)  
 
