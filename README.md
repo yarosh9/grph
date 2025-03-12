@@ -12,7 +12,7 @@ Overall, these works represent a symbiosis of digital technology and artistic vi
 
 ## Content
 
-* [Grapicds]All graphics (./svg)
+* [files](./svg)
 
 ## Inspiration  
 
