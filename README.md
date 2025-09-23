@@ -1,4 +1,4 @@
-# art vecor graphics
+# nOn-antropomorphic
 
 These works, crafted using vector graphics, showcase a unique blend of geometric precision and organic fluidity. Sharp lines and intricate forms create an impression of flawless craftsmanship.
 
