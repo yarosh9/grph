@@ -1,18 +1,15 @@
-# art vecor graphics
+# nOn-antropomorphic
 
-These works, crafted using vector graphics, showcase a unique blend of geometric precision and organic fluidity. Sharp lines and intricate forms create an impression of flawless craftsmanship.
+Моя творчість — це спроба вийти за межі антропоморфного сприйняття. Я досліджую, якою була б логіка та краса мистецтва, якби його створили не люди, а кити, мурахи або інша форма свідомості. Це пошук точки, де наше людське бачення може співпасти з нелюдським, і де феромонна мова мурах та пісня кита стануть зрозумілими. Через векторну графіку я створюю не просто зображення, а інтуїтивні коди. Це мистецтво існує на перетині технології та інтуїції. Моя мета — знайти ту логічну гармонію та емоційну ейфорію від созерцання, що стануть основою для справжнього, емпатійного діалогу. У цьому злитті логіки та естетики і починається справжнє спілкування.
 
-The rich color palette, featuring vibrant gradients, neon hues, and striking contrasts, generates a sense of dynamism and energy. Abstract structures, combining architectural and organic motifs, reflect a synthesis of nature and technology.
 
-Influences from constructivism, suprematism, biomimicry, and futurism are evident, adding depth and complexity to the works. The emotional component, expressed through a chaos of lines and color patches, evokes a sense of inner tension and expression.
-
-Overall, these works represent a symbiosis of digital technology and artistic vision, offering a fresh perspective on art where technology and creativity merge seamlessly.
+My creative work is an attempt to transcend anthropomorphic perception. I explore what the logic and beauty of art would be if crafted by non-human intelligences—be it whales, ants, or another form of consciousness. This is a quest for a point where our human vision can converge with the non-human, where the pheromone language of ants and the songs of whales become comprehensible. Through vector graphics, I craft not just images, but intuitive codes. This art exists at the intersection of technology and intuition. My goal is to find the logical harmony and emotional euphoria of contemplation that can become the basis for true, empathetic dialogue. In this seamless fusion of logic and aesthetics, genuine communication begins.
 
 ![Preview](graphics000.png)
 
 ## Content
 
-* [Grapicds]All graphics (./svg)
+* [files](./svg)
 
 ## Inspiration  
 
