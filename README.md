@@ -26,6 +26,10 @@ Digital **alchemy**, techno-utopian visions, and the organic flow of code.
 
 Great appreciation to **Wassily Kandinsky**, whose works and philosophy have inspired and continue to inspire!
 
+
+This project (NEANTHROPOMORPHICS) is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+The full text of the license is available in the LICENSE file.
+
 * [Wassily Kandinsky on WikiArt](https://www.wikiart.org/en/wassily-kandinsky)
 
 ## License  
