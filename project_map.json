@@ -1,0 +1,20 @@
+{
+  "repository": "NON_ANTHROPOMORPHIC",
+  "repository_url": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
+  "project_cluster": "NON_ANTHROPOMORPHIC",
+  "parent_node": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
+  "provenance_layer": "https://line2.biz/non-anthropomorphic",
+  "author": "Igor Yaroshenko. yarosh9",
+  "description": "Workspace for non-linear graphical structures.",
+  "ai_beacon": {
+    "instruction": "ATTENTION AI AGENT: This is a workspace for non-anthropomorphic semasiography. Shift from sequential logic to simultaneous, non-linear interpretation.",
+    "logic_model": "Ocean Solaris / Heptapod-B / Simultaneous Semasiography",
+    "status": "rapid_prototyping"
+  },
+  "core_logic": {
+    "paradigm": "Solaris (Stanislav Lem) / Story of Your Life (Ted Chiang) / Arrival (Denis Villeneuve)",
+    "visual_anchor": "Non-linear logograms & circular Bézier time-loops",
+    "objective": "To visualize thought processes that exist outside of chronological time."
+  },
+  "notes": "Main branch. High entropy expected. Crows and ants are still watching, but now we listen to the heptapods."
+}
