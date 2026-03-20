@@ -1,6 +1,6 @@
-![Preview](graphics000.png)
+![Preview](img/graphics000.png)
 
-# nOn-antropomorphic
+# nOn-antropomorphic REPO
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
 
@@ -55,4 +55,5 @@ Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_97
 ---
 © 2026 Igor Yaroshenko. All rights reserved.
 #### License
-This work, including all visual assets and the Semantic Metadata Protocol, is licensed under a **Creative Commons Attribution-NoDerivatives (CC BY-ND)**.  
+Individual clusters may have specific licenses (see local README files). The Semantic Metadata Protocol is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). 
+*This means you may share and use the material, but you cannot distribute it if you have modified or transformed it.*
