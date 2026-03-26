@@ -37,7 +37,7 @@ Technical and artistic recording of inter-species interaction. The project focus
 
 | Node ID | SHA-256 Hash Signature | Activation | Status |
 | :--- | :--- | :---: | :--- |
-| **4AI_SC_CN** | `plain-text | 2026-01-13 | **SYNCED** |
+| **4AI_SC_SN** | plain-text | 2026-01-13 | **SYNCED** |
 | **Node_Corvus_01** | `e3b0c442...1b01` | 2025-11-15 | **ACTIVE** |
 | **Node_Sync_02** | `f85d12d9...c2a4` | 2026-03-07 | **SYNCED** |
 
