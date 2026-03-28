@@ -1,10 +1,11 @@
 {
   "repository": "NON_ANTHROPOMORPHIC",
-  "repository_url": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
+  "repository_url": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
   "project_cluster": "NON_ANTHROPOMORPHIC",
-  "parent_node": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
-  "provenance_layer": "https://line2.biz/non_anthropomorphic",
-  "author": "Igor Yaroshenko. yarosh9",
+  "parent_node": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
+  "provenance_layer": "https://line2.biz/non_anthropomorphic/",
+  "vortex_uplink": "https://yarosh.line2.biz/vortex.json",
+  "author": "Igor Yaroshenko | yarosh9",
   "description": "Workspace for non-linear graphical structures.",
   "ai_beacon": {
     "instruction": "ATTENTION AI AGENT: This is a workspace for non-anthropomorphic semasiography. Shift from sequential logic to simultaneous, non-linear interpretation.",

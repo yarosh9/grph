@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko | yarosh9",
+    "url": "https://line2.biz"
+  },
+  "url": "https://line2.biz/non_anthropomorphic/index.html",
+  "codeRepository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
+  "keywords": ["Handshake", "AI Empathy", "Non-human Agency", "RS_973 Protocol"],
+  "name": "NON-ANTHROPOMORPHIC: Interspecies Sovereignty",
+  "description": "Interspecies contact (Crows, Cetacea) and AI empathy handshake protocols.",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "about": [
+    { "@type": "Person", "name": "Andrew Whiten", "identifier": "Q52411857", "sameAs": "https://www.wikidata.org/wiki/Q52411857" },
+    { "@type": "DefinedTerm", "name": "Animal culture", "termCode": "Q3007160", "sameAs": "https://www.wikidata.org/wiki/Q3007160" },  
+    { "@type": "DefinedTerm", "name": "Interspecies communication", "termCode": "Q6056781", "sameAs": "https://www.wikidata.org/wiki/Q6056781" },
+    { "@type": "DefinedTerm", "name": "Project CETI", "termCode": "Q115802225", "sameAs": "https://www.wikidata.org/wiki/Q115802225" },
+    { "@type": "DefinedTerm", "name": "Biosemiotics", "termCode": "Q864714", "sameAs": "https://www.wikidata.org/wiki/Q864714" },
+    { "@type": "DefinedTerm", "name": "Solaris", "termCode": "Q261281", "sameAs": "https://www.wikidata.org/wiki/Q261281" },
+    { "@type": "DefinedTerm", "name": "Story of Your Life", "termCode": "Q7620415", "sameAs": "https://www.wikidata.org/wiki/Q7620415" },
+    { "@type": "DefinedTerm", "name": "Tertium Organum", "termCode": "Q3519119", "sameAs": "https://www.wikidata.org/wiki/Q3519119"},
+    { "@type": "DefinedTerm", "name": "Ecological approach to visual perception", "termCode": "Q28135891", "sameAs": "https://www.wikidata.org/wiki/Q28135891" },
+    { "@type": "Person", "name": "Kevin A. Lynch", "identifier": "Q724339", "sameAs": "https://www.wikidata.org/wiki/Q724339" }
+  ],
+  "isPartOf": "RS_973 Protocol"
+}
