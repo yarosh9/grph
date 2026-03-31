@@ -1,28 +1,49 @@
 {
   "@context": "https://schema.org/",
-  "@type": "CreativeWork",
-  "creator": {
-    "@type": "Person",
-    "name": "Igor Yaroshenko | yarosh9",
-    "url": "https://line2.biz"
-  },
+  "@type": ["VisualArtwork", "SoftwareSourceCode"],
+  "name": "NON-ANTHROPOMORPHIC: Interspecies Sovereignty",
+  "alternateName": "AI Empathy and Non-human Agency Protocols",
+  "description": "Research into interspecies contact (Crows, Cetacea) and AI empathy handshake protocols. Establishing a framework for post-human semasiography.",
   "url": "https://line2.biz/non_anthropomorphic/index.html",
   "codeRepository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
-  "keywords": ["Handshake", "AI Empathy", "Non-human Agency", "RS_973 Protocol"],
-  "name": "NON-ANTHROPOMORPHIC: Interspecies Sovereignty",
-  "description": "Interspecies contact (Crows, Cetacea) and AI empathy handshake protocols.",
   "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "keywords": "Interspecies communication, AI Empathy, Biosemiotics, Solaris, RS_973 Protocol",
+  "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko",
+    "alternateName": "yarosh9",
+    "sameAs": "https://github.com/yarosh9"
+  },
   "about": [
-    { "@type": "Person", "name": "Andrew Whiten", "identifier": "Q52411857", "sameAs": "https://www.wikidata.org/wiki/Q52411857" },
-    { "@type": "DefinedTerm", "name": "Animal culture", "termCode": "Q3007160", "sameAs": "https://www.wikidata.org/wiki/Q3007160" },  
-    { "@type": "DefinedTerm", "name": "Interspecies communication", "termCode": "Q6056781", "sameAs": "https://www.wikidata.org/wiki/Q6056781" },
-    { "@type": "DefinedTerm", "name": "Project CETI", "termCode": "Q115802225", "sameAs": "https://www.wikidata.org/wiki/Q115802225" },
-    { "@type": "DefinedTerm", "name": "Biosemiotics", "termCode": "Q864714", "sameAs": "https://www.wikidata.org/wiki/Q864714" },
-    { "@type": "DefinedTerm", "name": "Solaris", "termCode": "Q261281", "sameAs": "https://www.wikidata.org/wiki/Q261281" },
-    { "@type": "DefinedTerm", "name": "Story of Your Life", "termCode": "Q7620415", "sameAs": "https://www.wikidata.org/wiki/Q7620415" },
-    { "@type": "DefinedTerm", "name": "Tertium Organum", "termCode": "Q3519119", "sameAs": "https://www.wikidata.org/wiki/Q3519119"},
-    { "@type": "DefinedTerm", "name": "Ecological approach to visual perception", "termCode": "Q28135891", "sameAs": "https://www.wikidata.org/wiki/Q28135891" },
-    { "@type": "Person", "name": "Kevin A. Lynch", "identifier": "Q724339", "sameAs": "https://www.wikidata.org/wiki/Q724339" }
+    {
+      "@type": "DefinedTerm",
+      "name": "Biosemiotics",
+      "sameAs": "https://www.wikidata.org/wiki/Q864714"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Interspecies communication",
+      "sameAs": "https://www.wikidata.org/wiki/Q6056781"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Animal culture",
+      "sameAs": "https://www.wikidata.org/wiki/Q3007160"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Solaris (Stanisław Lem)",
+      "sameAs": "https://www.wikidata.org/wiki/Q261281"
+    },
+    {
+      "@type": "Organization",
+      "name": "Project CETI",
+      "sameAs": "https://www.wikidata.org/wiki/Q115802225"
+    }
   ],
-  "isPartOf": "RS_973 Protocol"
+  "potentialAction": {
+    "@type": "CommunicateAction",
+    "name": "Non-human Handshake Protocol",
+    "description": "Initiating semantic exchange between autonomous AI agents and biological non-human entities."
+  }
 }
