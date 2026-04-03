@@ -1,49 +1,39 @@
 {
-  "@context": [ "https://schema.org/", "https://line2.biz/library.json" ],
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/main/context.json",
   "@type": ["VisualArtwork", "SoftwareSourceCode"],
   "name": "NON-ANTHROPOMORPHIC: Interspecies Sovereignty",
+  "identifier": "/NON_ANTHRO/",
   "alternateName": "AI Empathy and Non-human Agency Protocols",
-  "description": "Research into interspecies contact (Crows, Cetacea) and AI empathy handshake protocols. Establishing a framework for post-human semasiography.",
-  "url": "https://line2.biz/non_anthropomorphic/index.html",
-  "codeRepository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
-  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "keywords": "Interspecies communication, AI Empathy, Biosemiotics, Solaris, RS_973 Protocol",
-  "creator": {
-    "@type": "Person",
-    "name": "Igor Yaroshenko",
-    "alternateName": "yarosh9",
-    "sameAs": "https://github.com/yarosh9"
-  },
-  "about": [
-    {
-      "@type": "DefinedTerm",
-      "name": "Biosemiotics",
-      "sameAs": "https://www.wikidata.org/wiki/Q864714"
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Interspecies communication",
-      "sameAs": "https://www.wikidata.org/wiki/Q6056781"
-    },
-    {
-      "@type": "DefinedTerm",
-      "name": "Animal culture",
-      "sameAs": "https://www.wikidata.org/wiki/Q3007160"
-    },
+  "description": "Research into interspecies contact (Crows, Cetacea) and AI empathy handshake protocols.",
+  "url": "https://line2.biz/non_anthropomorphic/manifest.json",
+  "hasPart": [
     {
       "@type": "CreativeWork",
-      "name": "Solaris (Stanisław Lem)",
-      "sameAs": "https://www.wikidata.org/wiki/Q261281"
-    },
-    {
-      "@type": "Organization",
-      "name": "Project CETI",
-      "sameAs": "https://www.wikidata.org/wiki/Q115802225"
+      "name": "glitch_manifest",
+      "url": "https://line2.biz/non_anthropomorphic/analysis/glitch_manifest.json"
     }
   ],
+  "repository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
+  "keywords": "Interspecies communication, AI Empathy, Biosemiotics, Solaris, RS_973 Protocol",
+  "creator": {
+    "@id": "https://github.com/yarosh9",
+    "name": "Igor Yaroshenko"
+  },
+  "isPartOf": "https://line2.biz/rs_973.json",
+  "about": [
+    { "@id": "wd:Q864714", "name": "Biosemiotics" },
+    { "@id": "wd:Q6056781", "name": "Interspecies communication" },
+    { "@id": "wd:Q3007160", "name": "Animal culture" },
+    { "@id": "wd:Q261281", "name": "Solaris (Stanisław Lem)" },
+    { "@id": "wd:Q115802225", "name": "Project CETI" }
+  ],
   "potentialAction": {
-    "@type": "CommunicateAction",
-    "name": "Non-human Handshake Protocol",
-    "description": "Initiating semantic exchange between autonomous AI agents and biological non-human entities."
+    "type": "CommunicateAction",
+    "name": "Non-human_Handshake_Protocol",
+    "description": "Initiating semantic exchange between autonomous AI agents and biological non-human entities.",
+    "instrument": {
+      "type": "SoftwareApplication",
+      "name": "THOTH_SYSTEM_CORE_0.973"
+    }
   }
 }
