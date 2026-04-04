@@ -23,8 +23,17 @@
   "about": [
     { "@id": "wd:Q864714", "name": "Biosemiotics" },
     { "@id": "wd:Q6056781", "name": "Interspecies communication" },
+    { "@id": "wd:Q115801390", "name": "Mind of the Raven" },
+    { "@id": "wd:Q129050668", "name": "In the Company of Crows and Ravens" },
     { "@id": "wd:Q3007160", "name": "Animal culture" },
+    { "@id": "wd:Q52411857", "name": "Andrew Whiten" },
+    { "@id": "wd:Q125845982", "name": "The Dancing Bees" },
+    { "@id": "wd:Q211029", "name": "Edward O. Wilson" },
     { "@id": "wd:Q261281", "name": "Solaris (Stanisław Lem)" },
+    { "@id": "wd:Q7620415", "name": "Story of Your Life (Ted Chiang)" },
+    { "@id": "wd:Q677734", "name": "problem of other minds" },
+    { "@id": "wd:Q55627960", "name": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness" },
+    { "@id": "wd:Q88929504", "name": "We are not alone (metamodern concepts)" },
     { "@id": "wd:Q115802225", "name": "Project CETI" }
   ],
   "potentialAction": {
