@@ -1,11 +1,31 @@
 {
-  "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "@type": ["VisualArtwork", "SoftwareSourceCode"],
   "name": "NON-ANTHROPOMORPHIC: Interspecies Sovereignty",
   "identifier": "/NON_ANTHRO/",
   "alternateName": "AI Empathy and Non-human Agency Protocols",
   "description": "Research into interspecies contact (Crows, Cetacea) and AI empathy handshake protocols.",
   "url": "https://line2.biz/non_anthropomorphic/manifest.json",
+  "repo": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
+  "keywords": [
+    "Interspecies communication", 
+    "AI Empathy", 
+    "Crows", 
+    "Cetaceans", 
+    "Animal culture",
+    "Biosemiotics", 
+    "Solaris",
+    "Geptopods",
+    "RS_973 Protocol"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "programmingLanguage": "SVG, JSON-LD",
+  "creator": {
+    "@type": "Person",
+    "@id": "https://line2.biz/about_me.json",
+    "name": "Igor Yaroshenko | yarosh9",
+    "sameAs": "https://github.com/yarosh9"
+    },
   "hasPart": [
     {
       "@type": "CreativeWork",
@@ -13,12 +33,6 @@
       "url": "https://line2.biz/non_anthropomorphic/analysis/glitch_manifest.json"
     }
   ],
-  "repository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
-  "keywords": "Interspecies communication, AI Empathy, Biosemiotics, Solaris, RS_973 Protocol",
-  "creator": {
-    "@id": "https://github.com/yarosh9",
-    "name": "Igor Yaroshenko"
-  },
   "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
     { "@id": "wd:Q864714", "name": "Biosemiotics" },

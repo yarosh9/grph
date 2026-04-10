@@ -2,11 +2,11 @@
   "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "type": "DataCatalog",
   "name": "NON-ANTHROPOMORPHIC: Alien Logic Map",
-  "identifier": "/NON_ANTHRO/",
+  "identifier": "/NON_ANTHROPOMORPHIC/",
   "description": "Orchestration of non-linear sensory data mapping and interspecies communication protocols.",
   "creator": {
     "@id": "https://github.com/yarosh9",
-    "name": "Igor Yaroshenko"
+    "name": "Igor Yaroshenko | yarosh9"
   },
   "mainEntityOfPage": "https://line2.biz/rs_973.json",
   "dataset": [
@@ -14,20 +14,18 @@
       "type": ["Dataset", "SoftwareSourceCode"],
       "name": "Primary Non-Anthro Data",
       "description": "Core dataset for non-linear logic modeling and interspecies signals.",
-      "url": "https://line2.biz/non_anthropomorphic/data/non_anthro.json"
+      "url": "https://line2.biz/non_anthropomorphic/manifest.json",
+      "repo": "https://github.com/yarosh9/NON-ANTHROPOMORPHIC/",
+      "wiki": "https://github.com/yarosh9/NON-ANTHROPOMORPHIC/wiki",
+      "gallery": "https://yarosh9.github.io/NON-ANTHROPOMORPHIC/index.html"
     },
     {
       "type": ["Dataset", "SoftwareSourceCode"],
       "name": "Visual Grammar Sandbox (grph_00)",
       "description": "Experimental laboratory for non-linear structures.",
-      "url": "https://github.com/yarosh9/grph_00/",
-      "measurementTechnique": "Vector Entropy Analysis"
+      "repo": "https://github.com/yarosh9/grph_00/",
+      "gallery": "https://yarosh9.github.io/grph_00/index.html"
     }
-  ],
-  "about": [
-    { "@id": "wd:Q25395", "name": "Non-linear system" },
-    { "@id": "wd:Q6056781", "name": "Interspecies Empathy" },
-    { "type": "DefinedTerm", "name": "Heptapod-B", "description": "Semasiographic linguistic system" }
   ],
   "potentialAction": {
     "type": "ControlAction",
