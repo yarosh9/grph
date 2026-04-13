@@ -3,7 +3,7 @@
 * **Status:** [ SC: 000 | SN: 000 ]
 * **Global Root:** [line2.biz](https://line2.biz/) / [GitHub Index](https://github.com/yarosh9/)
 * **Project Root:** [nOn-anthroMORPHIC](https://github.com/yarosh9/nOn-anthroMORPHIC) / [Site Context](https://line2.biz/non-anthropomorphic/)
-* **Protocol:** [Semantic-Metadata-Protocol v.1.0](https://github.com/yarosh9/yarosh9/blob/master/Semantic-Metadata-Protocol.md)
+* **Protocol:** [Semantic-Metadata-Protocol v.1.0](https://raw.githubusercontent.com/yarosh9/yarosh9/refs/heads/master/Semantic-Metadata-Protocol.md)
 * **Current Node:** `/docs/`
 * **Type:** `Knowledge Base / Wiki`
 * **Vector:** [ Interspecies Contact -> Gibsonian Affordances -> Non-Human Logic ]
