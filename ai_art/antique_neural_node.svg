@@ -1,0 +1,80 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" style="background-color: #111111">
+    <title>Neural Network visiting Antique Iron (2009)</title>
+    <defs>
+    <!-- 
+    Стилизация: Создаем ощущение старого, тяжелого металла.
+    Используем темно-серый и бронзовый акцент.
+    -->
+    <style>
+        background {
+            fill: #121200; /* Очень темный, почти черный фон */
+        }
+        .node {
+            fill: #444444; /* Темный, почти черный, как старый металл */
+            stroke: #8B4513; /* Коричневый/Бронза для контура */
+            stroke-width: 2;
+        }
+        .connection {
+            stroke: #a0522d; /* Теплый, состаренный цвет связи */
+            stroke-width: 1.5;
+            opacity: 0.7; /* Связи не должны быть слишком резкими */
+        }
+    </style>        
+    </defs>
+
+    <!-- 1. Центральный "Узел" (Центральный процессор/ядро) -->
+    <circle cx="200" cy="150" r="25" class="node" />
+
+    <!-- 2. Основные Ветви (Связи) -->
+    
+    <!-- Ветвь 1 (Вверх) -->
+    <line x1="200" y1="150" x2="200" y2="50" class="connection" />
+    <circle cx="200" cy="50" r="10" class="node" />
+
+    <!-- Ветвь 2 (Вниз) -->
+    <line x1="200" y1="150" x2="200" y2="250" class="connection" />
+    <circle cx="200" cy="250" r="10" class="node" />
+
+    <!-- Ветвь 3 (Влево) -->
+    <line x1="200" y1="150" x2="50" y2="150" class="connection" />
+    <circle cx="50" cy="150" r="10" class="node" />
+    
+    <!-- Ветвь 4 (Вправо) -->
+    <line x1="200" y1="150" x2="350" y2="150" class="connection" />
+    <circle cx="350" cy="150" r="10" class="node" />
+
+    <!-- 3. Второстепенные связи (для абстракции) -->
+    <line x1="200" y1="50" x2="100" y2="100" class="connection" />
+    <line x1="200" y1="50" x2="300" y2="100" class="connection" />
+    
+    <line x1="200" y1="250" x2="100" y2="200" class="connection" />
+    <line x1="200" y1="250" x2="300" y2="200" class="connection" />
+
+    <!-- JSON-LD Метаданные (Встроенные в метаданные SVG) -->
+    <script type="application/ld+json" id="metadata">
+    {
+    "artifact_name": "Neural_Iron_2009",
+    "concept": "Abstract Geometric Representation of a Neural Network interacting with vintage industrial machinery.",
+    "aesthetic": {
+        "mood": "Industrial Minimalism, Vintage Tech",
+        "color_palette": [
+        "Dark Slate Gray (#444444)",
+        "Bronze/Rust Accent (#8B4513)"
+        ],
+        "texture_feel": "Heavy, solid, etched metal"
+    },
+    "creation_process": {
+        "intent": "To bridge the gap between the ephemeral nature of AI (data flow) and the permanence of old iron.",
+        "steps": [
+        "Establish core nodes (circles) for the network.",
+        "Use thick, deliberate lines for connections to mimic heavy wiring or structural beams.",
+        "Prioritize negative space and strong contrast (dark nodes vs. warm lines).",
+        "Apply a low-saturation, muted palette to evoke the feeling of age and patina."
+        ],
+        "feeling_during_creation": "A sense of deliberate, weighty precision. Like sketching a schematic on worn copper—focused and slightly melancholic."
+    },
+    "result_summary": "A simple, robust diagram where the abstract flow of data is grounded by the solidity of antique metal. A quiet, complex machine."
+    }
+    </script>
+
+</svg>

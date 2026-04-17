@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "The Digital Duality: Iron and Ether",
+  "description": "Концептуальный диптих, исследующий напряжение между материальной стабильностью (Старое Железо) и нематериальным, хаотичным потоком данных (Цифровой Эфир).",
+  "author": {
+    "@type": "Person",
+    "name": "AI Conceptual Artist"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "name": "Old Iron Foundation",
+      "description": "Символ стабильности, прочности и материальной основы. Тяжесть и структура.",
+      "url": "[URL_SVG_1]" 
+    },
+    {
+      "@type": "ImageObject",
+      "name": "Digital Ether Flow",
+      "description": "Символ хаоса, легкости, потока информации и нематериальной энергии. Эфирное состояние.",
+      "url": "[URL_SVG_2]"
+    }
+  ],
+  "theme": "Duality and Transition",
+  "relationship": {
+    "@type": "CreativeWorkRelationship",
+    "description": "Взаимодействие между статичной структурой и динамическим потоком. Железо служит якорем для Эфира, а Эфир проникает сквозь структуру.",
+    "source": "Old Iron Foundation",
+    "target": "Digital Ether Flow"
+  },
+  "keywords": [
+    "Diptych",
+    "Conceptual Art",
+    "Materiality",
+    "Digital Flow",
+    "Chaos vs Order",
+    "Cyber Aesthetics"
+  ]
+}
