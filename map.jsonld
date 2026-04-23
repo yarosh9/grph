@@ -1,6 +1,6 @@
 {
   "@context": "https://line2.biz/context.jsonld",
-  "type": "DataCatalog",
+  "@type": "DataCatalog",
   "name": "NON-ANTHROPOMORPHIC: Alien Logic Map",
   "identifier": "/NON_ANTHROPOMORPHIC/",
   "description": "Orchestration of non-linear sensory data mapping and interspecies communication protocols.",
